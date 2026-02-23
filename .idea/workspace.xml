@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144bff2b-7fd1-4b52-8459-0037fa96a0c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/quest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quest8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quest9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="144bff2b-7fd1-4b52-8459-0037fa96a0c1" name="Changes" comment="add das quests: 8,9 e 10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +32,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.quest10.executor": "Run",
+    "Application.quest11.executor": "Run",
     "Application.quest8.executor": "Run",
     "Application.quest9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,7 +57,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771687187159</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add das quests: 8,9 e 10">
+      <option name="closed" value="true" />
+      <created>1771858386832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771858386832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add as quests 6 e 7" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="add das quests: 8,9 e 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add das quests: 8,9 e 10" />
   </component>
 </project>
